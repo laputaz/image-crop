@@ -1,1 +1,1 @@
-### image-cropr
+### image-crop
